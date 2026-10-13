@@ -89,3 +89,6 @@ No dependencies are required
 No build process is required
 
 No package.json is needed
+
+ok
+
